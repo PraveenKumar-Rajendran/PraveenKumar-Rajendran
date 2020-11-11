@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-## I'm
-
 #
 
 <img align="right" src="./Assets/Developer.gif"/>
 
- 👨‍💻 an Embedded software test engineer / Inquisitive decipherer 
+ 👨‍💻 I'm an Embedded software test engineer / Inquisitive decipherer 
 
  🟢 Team representative for Indian software verification team at <a href="https://slworld.com/"><b>SL Corporation</b></a>
 
