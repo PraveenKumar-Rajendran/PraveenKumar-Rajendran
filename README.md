@@ -11,7 +11,7 @@
 
 📫 Contact me here **aravindhanpraveen19@gmail.com** 
 
-🚀 Know more about me here **praveenkumar-rajendran.github.io**
+🚀 Know more about me here **<a href="https://praveenkumar-rajendran.github.io/"><b>praveenkumar-rajendran.github.io</b></a>**
 
 #
 
