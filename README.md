@@ -9,7 +9,8 @@
  - 💻 Self  taught researcher on ML, DL and computer vision
  - *🚲 Cyclist & A Film buff 💫*
 
-📫 Contact me here **aravindhanpraveen19@gmail.com**
+📫 Contact me here **aravindhanpraveen19@gmail.com** 
+
 🚀 Know more about me here **praveenkumar-rajendran.github.io**
 
 #
