@@ -4,15 +4,13 @@
 
 <img align="right" src="./Assets/Developer.gif"/>
 
- 👨‍💻 I'm an Embedded software test engineer / Inquisitive decipherer 
+ - 👨‍💻 I'm an Embedded software test engineer / Inquisitive decipherer 
+ - 🟢 Team representative for Indian software verification team at <a href="https://slworld.com/"><b>SL Corporation</b></a>
+ - 💻 Self  taught researcher on ML, DL and computer vision
+ - *🚲 Cyclist & A Film buff 💫*
 
- 🟢 Team representative for Indian software verification team at <a href="https://slworld.com/"><b>SL Corporation</b></a>
-
- 💻 Self  taught researcher on ML, DL and computer vision.
-
- *🚲 Cyclist & A Film buff 💫*
-
-I firmly believe that **no amount of knowledge is enough knowledge**.
+📫 Contact me here **aravindhanpraveen19@gmail.com**
+🚀 Know more about me here **praveenkumar-rajendran.github.io**
 
 #
 
