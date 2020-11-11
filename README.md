@@ -5,8 +5,9 @@
 <img align="right" src="./Assets/Developer.gif"/>
 
  - 👨‍💻 I'm an Embedded software test engineer / Inquisitive decipherer 
- - 🟢 Team representative for Indian software verification team at <a href="https://slworld.com/"><b>SL Corporation</b></a>
+ - 🟢 Working at <a href="https://slworld.com/"><b>SL Corporation</b></a>
  - 💻 Self  taught researcher on ML, DL and computer vision
+ - ✈️ Ping me, If you're interested to explore new technologies with which we share common interests.
  - *🚲 Cyclist & A Film buff 💫*
 
 📫 Contact me here **aravindhanpraveen19@gmail.com** 
