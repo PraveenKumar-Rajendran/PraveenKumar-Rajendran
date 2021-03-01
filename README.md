@@ -4,10 +4,9 @@
 
 <img align="right" src="./Assets/Developer.gif"/>
 
- - 👨‍💻 I'm an Embedded software test engineer / Inquisitive decipherer 
- - 🟢 Working at <a href="https://slworld.com/"><b>SL Corporation</b></a>
- - 💻 Self  taught researcher on ML, DL and computer vision
- - ✈️ Ping me, If you're interested to explore new technologies with which we share common interests.
+ - 👨‍💻 I'm a graduate student **<a href="https://https://www.kaist.ac.kr/en/"><b>Korea Advanced Institute of Science and Technology</b></a>** / Former Embedded software test engineer
+ - 🟢 Worked at <a href="https://slworld.com/"><b>SL Corporation</b></a>
+ - ✈️ Contact me, If you're interested to explore new technologies with which we share common interests.
  - *🚲 Cyclist & A Film buff 💫*
 
 📫 Contact me here **aravindhanpraveen19@gmail.com** 
