@@ -5,11 +5,7 @@
 <img align="center" src="./Assets/undraw_version_control_re_mg66.svg"/>
 
 
-👨‍💻 I'm a masters student at **<a href="https://www.kaist.ac.kr/en/"><b>Korea Advanced Institute of Science and Technology</b></a>** in <a href="http://vil.kaist.ac.kr/">Vehicular Intelligence Lab</a>
-
-Previously a software engineer at <a href="http://www.slworld.com/Global/"><b>SL Lumax and SL Corporation</b></a>
-
-*🚲 I love cycling*
+👨‍💻 I'm a masters student at **<a href="https://www.kaist.ac.kr/en/"><b>Korea Advanced Institute of Science and Technology</b></a>** in <a href="http://vil.kaist.ac.kr/">Vehicular Intelligence Lab.</a> Previously a software engineer at <a href="http://www.slworld.com/Global/"><b>SL Lumax and SL Corporation</b></a>. *🚲 I love cycling*.
 
 <p align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=PraveenKumar-Rajendran&&show_icons=true&theme=radical" alt="PraveenKumar"/></p>  
