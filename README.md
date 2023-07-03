@@ -41,6 +41,9 @@ introduce_myself()
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
 </div>
 
+<p align="right">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PraveenKumar-Rajendran&&show_icons=true&theme=radical" alt="PraveenKumar"/></p>  
+
 ### Tools & Technologies
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
