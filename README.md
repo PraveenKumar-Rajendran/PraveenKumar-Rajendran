@@ -8,7 +8,7 @@ import datetime
 
 def introduce_myself():
     name = "Praveen"
-    occupation = "Computer Vision / AI Research Engineer"
+    occupation = "CV/AI Research Engineer"
     company = "Neubility"
     current_year = datetime.datetime.now().year
     
@@ -41,8 +41,8 @@ introduce_myself()
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
 </div>
 
-<p align="right">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PraveenKumar-Rajendran&&show_icons=true&theme=radical" alt="PraveenKumar"/></p>  
+<!-- <p align="right">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PraveenKumar-Rajendran&&show_icons=true&theme=radical" alt="PraveenKumar"/></p>   -->
 
 ### Tools & Technologies
 <div style="display: flex; flex-wrap: wrap;">
@@ -64,13 +64,18 @@ introduce_myself()
 - Sensor Fusion
 - Multi-Object Tracking
 
+## Recently Learning
+
+- MLOps Best Practices
+- Quantization of Deep Learning Models
 
 ## Recent Works
 - Pose Estimation
-- Object Detection Algorithms
+- Object Detection & Classification Algorithms
 - GANs for Data Augmentation
-- Stable Diffusion for Data Augmentation
+- Diffusion Models for Data Augmentation
 - Active learning for improved data pipeline
+- Semantic Segmentation
 
 Let's connect and collaborate on exciting projects! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/[your-linkedin-profile]).
 
