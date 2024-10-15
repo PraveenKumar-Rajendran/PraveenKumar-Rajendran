@@ -79,6 +79,7 @@ introduce_myself()
 - Quantization of Deep Learning Models
 - Generative AI
 - Azure ML
+- Rust
 
 ## Recent Works
 - Pose Estimation
